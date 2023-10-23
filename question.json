@@ -1,0 +1,82 @@
+{"questions":
+[{
+"question":"The world most famous monument 'pyramid' is located in..?",
+"choices":["Russia","Iran","Egypt","Greece"],
+"correctAnswer":"Egypt"
+
+
+},
+{
+    "question":"The god of the sea in greek mythology is known as..?",
+    "choices":["Poseidon","Calypso","Aries","Aphrodite"],
+    "correctAnswer":"Poseidon"
+    
+
+
+
+},
+{
+
+"question":"Twitter is owned by..?",
+"choices":["Elon Musk","Bill Gates","Jeff Bezos","Lionel Messsi"],
+"correctAnswer":"Elon Musk"
+
+
+},
+{
+    "question":"Which of these countries won the 2022 fifa world cup..?",
+    "choices":["Argentina","Columbia","South Africa","Ghana"],
+    "correctAnswer":"Argentina"
+
+
+},
+{
+    
+    "question":"One of the following is a hollywood movie director..?",
+    "choices":["James Cameron","Randy Orton","Jennifer Lopez","Tyson Fury"],
+    "correctAnswer":"James Cameron"
+
+
+},
+{
+    
+    "question":"The River Nile is locatedin which of these continents..?",
+    "choices":["Australia","South America","Europe","Africa"],
+    "correctAnswer":"Africa"
+
+
+},
+{
+    "question":"The founder of microsoft is..?",
+    "choices":["Bill Gates","Jeff Bezos","Elon Musk","Jennifer Lopez"],
+    "correctAnswer":"Bill Gates"
+    
+
+
+},
+{
+    "question":"Batman is produced by one follwing...",
+    "choices":["Marvel","Dc Comics","screen Gems","21st century fox"],
+    "correctAnswer":"Dc Comics"
+
+},
+{
+    
+    "question":"The god of the war in greek mythology is known as...?",
+    "choices":["Poseidon","Calypso","Aries","Aphrodite"],
+    "correctAnswer":"Aries"
+
+
+},
+{
+    "question":"The Uefa champions league was lifted in 2012 by which club..?",
+    "choices":["Real Madrid fc","Chelsea fc","Arsenal fc","Bayern Fc"],
+    "correctAnswer":"Chelsea fc"
+
+
+}
+
+
+
+
+]}
